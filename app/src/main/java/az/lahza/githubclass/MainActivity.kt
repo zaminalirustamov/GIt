@@ -17,6 +17,8 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        println("Hello ELgun!")
+        val a = 5
+        val b = 6
+        val c = a + b
     }
 }
